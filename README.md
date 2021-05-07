@@ -1,6 +1,6 @@
 # Memqu
 ## Lo-Fi Prototype
-![alt text](https://www.dropbox.com/preview/MemQu%20lofi.jpeg)
+![alt text](MemQu lofi.jpeg)
 
 ## Hi-Fi Prototype
 See [here](https://marvelapp.com/prototype/71ba6g2)
